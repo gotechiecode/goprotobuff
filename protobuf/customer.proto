@@ -1,0 +1,11 @@
+syntax="proto3";
+
+package model;
+
+option go_package = ".;model";
+
+message Customer{
+    string name = 1;
+    int32 age = 2;
+    bool mastEmployee = 3;
+}

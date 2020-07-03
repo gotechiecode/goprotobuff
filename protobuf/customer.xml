@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>John</name>
+    <age>29</age>
+    <mastEmployee>true</mastEmployee>
+</root>
